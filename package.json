@@ -1,0 +1,36 @@
+{
+    "name": "gt01",
+    "description": "",
+    "demo": "",
+    "version": "0.0.1",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "",
+        "mobile": ""
+    },
+    "author": {
+        "name": "",
+        "email": "",
+        "url": ""
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "bugs": "",
+    "contributors": ""
+}

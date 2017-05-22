@@ -1,0 +1,28 @@
+body {
+  color: #333333;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+h1.page-title {
+  text-align: center;
+}
+p.page-description {
+  text-align: center;
+}
+footer.site-footer {
+  text-align: center;
+}
+hr {
+  border-top: 1px dotted;
+  border-bottom: none;
+}
+div.nav ul li{
+  display: inline-block;
+}
+time.post-date {
+  color: #666666;
+  font-weight: normal;
+}
+aside.read-next {
+  text-align: center;
+}
