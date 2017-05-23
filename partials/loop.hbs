@@ -1,7 +1,5 @@
-{{!-- Previous/next page links - only displayed on page 2+ --}}
-<div class="extra-pagination inner">
-    {{pagination}}
-</div>
+{{!-- Previous/next page links - displayed on every page --}}
+{{pagination}}
 
 {{!-- This is the post loop - each post will be output using this markup --}}
 {{#foreach posts}}
@@ -20,6 +18,3 @@
 
 </article>
 {{/foreach}}
-
-{{!-- Previous/next page links - displayed on every page --}}
-{{pagination}}

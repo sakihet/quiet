@@ -1,7 +1,7 @@
 body {
   color: #333333;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 h1.page-title {
   text-align: center;
@@ -25,4 +25,10 @@ time.post-date {
 }
 aside.read-next {
   text-align: center;
+}
+div.extra-pagination {
+  text-align: right;
+}
+nav.pagination {
+  text-align: right;
 }
