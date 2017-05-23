@@ -1,1 +1,2 @@
-# gt01
+# quiet
+a quiet ghost theme.
