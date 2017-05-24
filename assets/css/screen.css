@@ -1,5 +1,5 @@
 body {
-  color: #333333;
+  color: #343f44;
   margin-left: 15%;
   margin-right: 15%;
 }
@@ -13,14 +13,13 @@ footer.site-footer {
   text-align: center;
 }
 hr {
-  border-top: 1px dotted;
-  border-bottom: none;
+  border-top: 1px solid #738a94;
 }
 div.nav ul li{
   display: inline-block;
 }
 time.post-date {
-  color: #666666;
+  color: #738a94;
   font-weight: normal;
 }
 aside.read-next {
@@ -40,10 +39,16 @@ img {
   margin-right: auto;
 }
 pre {
-  background-color: #eee;
+  background-color: #e5eff5;
 }
 blockquote {
   font-style: italic;
   padding-left: 1em;
-  border-left: 3px solid #ccc;
+  border-left: 3px solid #738a94;
+}
+a {
+  color: #738a94;
+}
+a:hover {
+  color: #3eb0ef;
 }
