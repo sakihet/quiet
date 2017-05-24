@@ -39,3 +39,11 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+pre {
+  background-color: #eee;
+}
+blockquote {
+  font-style: italic;
+  padding-left: 1em;
+  border-left: 3px solid #ccc;
+}
