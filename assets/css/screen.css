@@ -32,3 +32,10 @@ div.extra-pagination {
 nav.pagination {
   text-align: right;
 }
+img {
+  display: block;
+  max-width: 100%;
+  hight: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
