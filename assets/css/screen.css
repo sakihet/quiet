@@ -14,6 +14,7 @@ footer.site-footer {
 }
 hr {
   border-top: 1px solid #738a94;
+  clear: both;
 }
 div.nav ul li{
   display: inline-block;
@@ -21,9 +22,6 @@ div.nav ul li{
 time.post-date {
   color: #738a94;
   font-weight: normal;
-}
-aside.read-next {
-  text-align: center;
 }
 div.extra-pagination {
   text-align: right;
@@ -51,4 +49,11 @@ a {
 }
 a:hover {
   color: #3eb0ef;
+}
+a.read-next-story {
+  float: right;
+  text-align: right;
+}
+a.prev {
+  float: left;
 }
