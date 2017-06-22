@@ -6,14 +6,15 @@
 <article class="{{post_class}}">
     <header class="post-header">
         <h2 class="post-title">
-          <time class="post-date" datetime="{{date format="YY-MM-DD"}}">{{date format="YYMMDD"}}: </time>
+          <time class="post-date" datetime="{{date format="YY-MM-DD"}}">{{date format="YYMMDD"}}</time>
+          <br>
           <a href="{{url}}">{{title}}</a>
         </h2>
         {{tags prefix=" on "}}
 
     </header>
-    <section class="post-excerpt">
-        <p>{{excerpt words="26"}} <a class="read-more" href="{{url}}">&raquo;</a></p>
+    <section class="post-content">
+        {{ content }}
     </section>
 
 </article>
